@@ -1,6 +1,6 @@
 ## Pietro Hoffchneider
 
-#Enthusiast of the best web and mobile development technologies.
+ Enthusiast of the best web and mobile development technologies.
  <div>
   <a href="https://github.com/pietrohoff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrohoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
