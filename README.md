@@ -1,4 +1,4 @@
-## Pietro Hoffchneider
+## Pietro
 
  Enthusiast of the best web and mobile development technologies.
  
