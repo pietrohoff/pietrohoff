@@ -1,6 +1,6 @@
 ## Pietro
 
-Sou Desenvolvedor Full Stack, Bacharel em Ciência da Computação, com domínio em PHP e JavaScript. Possuo experiência em projetos de grande escala, trabalhando em equipes ágeis e focado no desenvolvimento de soluções escaláveis com impacto real.
+Sou Desenvolvedor Full Stack, Bacharel em Ciência da Computação, com domínio em PHP, JavaScript e encontrar bugs que ninguém sabia que existiam. Possuo experiência em projetos de grande escala, trabalhando em equipes ágeis e focado no desenvolvimento de soluções escaláveis com impacto real (e que, de preferência, não quebrem na sexta-feira).
  
  <div>
   <a href="https://github.com/pietrohoff">
