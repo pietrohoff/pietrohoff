@@ -1,6 +1,6 @@
 ## Pietro
 
- Enthusiast of the best web and mobile development technologies.
+Sou Desenvolvedor Full Stack, Bacharel em Ciência da Computação, com domínio em PHP e JavaScript. Possuo experiência em projetos de grande escala, trabalhando em equipes ágeis e focado no desenvolvimento de soluções escaláveis com impacto real.
  
  <div>
   <a href="https://github.com/pietrohoff">
