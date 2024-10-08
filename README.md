@@ -21,6 +21,7 @@
  <img align="center" alt="Pietro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
  <img align="center" alt="Pietro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
  <img align="center" alt="Pietro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
+ <img  align="center" alt="Pietro-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
  <img align="center" alt="Pietro-CSS" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" >
  <img align="right" alt="Pietro-CSS" src="https://komarev.com/ghpvc/?username=pietrohoff&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
