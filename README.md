@@ -2,9 +2,9 @@
  
  <div>
   <a href="https://github.com/pietrohoff">
-  <img height="180em" width="27%"src="https://github-readme-stats.vercel.app/api?username=pietrohoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrohoff&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" width="28%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrohoff&theme=dracula" alt="pietrohoff" />
+  <img height="180em" width="32%"src="https://github-readme-stats.vercel.app/api?username=pietrohoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrohoff&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=pietrohoff&theme=dracula" alt="pietrohoff" />
 </div>
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
